@@ -27,6 +27,7 @@ class School
     sorted_hash = {}
     roster.each do |grade,students| 
   end 
+  end 
   
 end 
 
